@@ -1,0 +1,11 @@
+body{
+    background:linear-gradient(to right, black, red);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+button{
+    font-family: 'Courier New', Courier, monospace;
+    padding:10px;
+    border-radius: 50px;
+    border:none;
+}
